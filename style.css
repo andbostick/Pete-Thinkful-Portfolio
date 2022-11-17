@@ -24,6 +24,11 @@ article div {
   width: 100%;
 }
 
+.image{
+  text-align: center;
+  width: 100%;
+}
+
 p {
   line-height: 1.5;
 }
@@ -80,6 +85,10 @@ a {
 
 a:hover{
  color: #f77f00;
+}
+
+nav a {
+  padding: 10px;
 }
 
 
